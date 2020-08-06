@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [github.com/ckauan](github.com/ckauan)
+- 👨‍💻 All of my projects are available at [github.com/ckauan]
 
 - 📫 How to reach me **carloskauanmoreiradesousa@gmail.com**
 
