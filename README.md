@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Proffy's App](https://github.com/cKauan/Proffy)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [github.com/ckauan](/ckauan)
 
