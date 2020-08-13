@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Carlos</h1>
 <h3 align="center">I'm passionate about technology and i'm trying always to get more knowledge as i can do it.</h3>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" height="150"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" height="200"/>
+
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [github.com/ckauan](/ckauan)
