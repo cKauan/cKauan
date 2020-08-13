@@ -22,8 +22,9 @@
 <br>
 <br>
 <br>
-
+<p align="center">
+  
 [![Twitter](https://img.shields.io/badge/@carlaodamassaa-1DA1F2?style=circle&logo=twitter&logoColor=white)](https://twitter.com/carlaodamassaa) 
 [![Email](https://img.shields.io/badge/carloskauanmoreiradesousa@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carloskauanmoreiradesousa@gmail.com)
 [![Codepen](https://img.shields.io/badge/ckauan-1DA1F2?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/ckauan) 
-
+<p>
