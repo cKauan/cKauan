@@ -13,10 +13,10 @@
 <a href="https://github.com/ckauan">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ckauan&show_icons=true&theme=vue" alt="ckauan" /> 
 </a>
-<br>
 <a href="https://github.com/ckauan/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckauan&layout=compact&show_icons=true&theme=vue" alt="ckauan" />
 </a>
+<br>
 
 [![Twitter](https://img.shields.io/badge/@carlaodamassaa-1DA1F2?style=circle&logo=twitter&logoColor=white)](https://twitter.com/carlaodamassaa) 
 [![Email](https://img.shields.io/badge/carloskauanmoreiradesousa@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carloskauanmoreiradesousa@gmail.com)
