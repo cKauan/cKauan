@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Carlos</h1>
 <h3 align="center">I'm passionate about technology and i'm trying always to get more knowledge as i can do it.</h3>
 
-- 🔭 I’m currently working on [Proffy's App](https://github.com/cKauan/Proffy)
 
 - 🌱 I’m currently learning **ReactJS**
 
