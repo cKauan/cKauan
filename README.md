@@ -3,7 +3,7 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [github.com/ckauan](/ckauan)
 
@@ -12,7 +12,6 @@
 <br>
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -21,5 +20,4 @@
 
 [![Twitter](https://img.shields.io/badge/@carlaodamassaa-1DA1F2?style=circle&logo=twitter&logoColor=white)](https://twitter.com/carlaodamassaa) 
 [![Email](https://img.shields.io/badge/carloskauanmoreiradesousa@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carloskauanmoreiradesousa@gmail.com)
-[![Codepen](https://img.shields.io/badge/ckauan-1DA1F2?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/ckauan) 
 
