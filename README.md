@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ckauan](/ckauan)
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/carlos-kauãn-moreira-de-sousa-6325371a6/">Linkedin</a> | <a href="carloskauanmoreiradesousa@gmail.com">Email</a> | <a href="https://twitter.com/carlaodamassaa">Twitter</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ckauan">Linkedin</a> | <a href="carloskauanmoreiradesousa@gmail.com">Email</a> | <a href="https://twitter.com/carlaodamassaa">Twitter</a>
 
 <br>
 
